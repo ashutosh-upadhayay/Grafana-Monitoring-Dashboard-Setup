@@ -1,4 +1,4 @@
-# Grafana Monitoring Dashboard Setup (Beginner-Friendly Guide)
+# Grafana Monitoring Dashboard Setup 
 
 Welcome to this **step-by-step beginner-friendly guide** on creating
 your **first Grafana Monitoring Dashboard**.
